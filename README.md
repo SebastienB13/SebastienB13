@@ -32,7 +32,7 @@ Bienvenue sur mon profil GitHub ! Passionné par le développement web, je trava
 
 - 🌐 [Mon site web](https://sebastien-blanc.fr)
 - ✉️ contact@sebastien-blanc.fr  
-- 💼 [LinkedIn](https://linkedin.com/in/tonprofil)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sblanc13/)
 
 ---
 
