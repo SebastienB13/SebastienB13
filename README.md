@@ -23,7 +23,7 @@ Bienvenue sur mon profil GitHub ! Passionné par le développement web, je trava
 
 ## 📈 Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastienB13&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=radical)
 
 ---
