@@ -40,8 +40,7 @@ Suivi public (changelog, bugs, retours) → [Cusca-Team/Cusca-Changelog](https:/
 
 ### 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastienB13&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienB13&layout=compact&theme=radical)
+![Metrics](https://raw.githubusercontent.com/SebastienB13/SebastienB13/main/metrics.svg)
 
 ---
 
